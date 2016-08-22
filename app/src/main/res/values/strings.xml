@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoMech</string>
+    <string name="autos">Autos</string>
+    <string name="busqueda">Busqueda</string>
+    <string name="photo">Photo</string>
+    <string-array name="tabs_autos">
+        <item>@string/autos</item>
+        <item>@string/busqueda</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
